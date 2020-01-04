@@ -1,1 +1,1 @@
-# A implementation in Mandelbrot in Java and C++
+# An implementation of a Mandelbrot in Java and C++
