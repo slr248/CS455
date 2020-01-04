@@ -1,1 +1,1 @@
-# CS455
+# A implementation in Mandelbrot in Java and C++
